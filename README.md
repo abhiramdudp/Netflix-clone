@@ -6,9 +6,3 @@ I re-created the Netflix landing page UI design using `HTML`, `CSS` and a bit of
 * HTML
 * CSS
 * JavaScript
-## LINK FOR THE WEBSITE
-```
-https://thenewc0der-24.github.io/Netflix-Landing-Page_Clone/
-```
-
----
