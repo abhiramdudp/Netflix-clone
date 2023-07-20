@@ -9,7 +9,7 @@ I re-created the Netflix landing page UI design using `HTML`, `CSS` and a bit of
 
 ## LINK FOR THE WEBSITE
 ```
-
+https://abhiramdudp.github.io/Netflix-clone/
 ```
 
 ---
