@@ -6,3 +6,11 @@ I re-created the Netflix landing page UI design using `HTML`, `CSS` and a bit of
 * HTML
 * CSS
 * JavaScript
+
+## LINK FOR THE WEBSITE
+```
+
+```
+
+---
+<h3 align="center">Kindly Check this Out!!, Hope you enjoy this :)</h3>
