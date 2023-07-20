@@ -1,4 +1,3 @@
-<h1 align="center"><img align="center" src="https://github.com/TheNewC0der-24/Netflix-Landing-Page_Clone/blob/master/Img/logo.png">Landing Page Clone</h1>
 
 ## ABOUT
 I re-created the Netflix landing page UI design using `HTML`, `CSS` and a bit of `JavaScript` for the tabs. I use modern CSS3+ techniques like Grid, Flex, overlays, shadows, etc
